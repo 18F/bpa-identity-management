@@ -267,12 +267,12 @@ perform this task order.
 
 #### **Table 1 List of Deliverables**
 
-  **REQUIRED DELIVERABLES / REPORTS**   **DUE DATES**                                                       **DESCRIPTION OF DELIVERABLE CONTENT**
-  ------------------------------------- ------------------------------------------------------------------- --------------------------------------------------------------------------------------------------
-  Status Reports                        1 business day after each sprint                                    A report of progress throughout each sprint
-  Code Repository of Product            End of task order                                                   Version-controlled Open Source repository of code that comprises prototype
-  Development Prototype                 End of second sprint, and every sprint thereafter                   In-progress development prototype, accessible on the web via staging server / development server
-  Transition plan                       3 business days after the conclusion of the second-to-last sprint   See Section 5.7.1 of the PWS
+**REQUIRED DELIVERABLES / REPORTS** | **DUE DATES**                                                     |                                  **DESCRIPTION OF DELIVERABLE CONTENT**
+------------------------------------|-------------------------------------------------------------------|---
+Status Reports                      | 1 business day after each sprint                                  | A report of progress throughout each sprint
+Code Repository of Product          | End of task order                                                 | Version-controlled Open Source repository of code that comprises prototype
+Development Prototype               | End of second sprint, and every sprint thereafter                 | In-progress development prototype, accessible on the web via staging server / development server
+Transition plan                     | 3 business days after the conclusion of the second-to-last sprint | See Section 5.7.1 of the PWS
 
 #### 
 
