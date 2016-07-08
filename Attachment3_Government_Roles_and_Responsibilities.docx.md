@@ -1,7 +1,7 @@
 GOVERNMENT ROLES AND RESPONSIBILITIES
 =====================================
 
- Identity Management Integration Support
+Identity Management Integration Support
 ========================================
 
 Client Order ID Number: ID09160051
@@ -10,7 +10,7 @@ Client Order ID Number: ID09160051
 Contracting Officer
 -------------------
 
-<span id="h.3znysh7" class="anchor"></span>The Contracting Officer (CO)
+The Contracting Officer (CO)
 is responsible for monitoring task order contract compliance, contract
 administration, and cost control and for resolving any differences
 between the observations documented by the Government and the
