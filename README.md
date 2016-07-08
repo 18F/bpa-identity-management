@@ -5,5 +5,7 @@ Consumer Identity Management is a problem the Government has tried to solve in a
 In addition, our current public work is available at this [GitHub repository](https://github.com/18F/identity-idp).
 
 ## Instructions:
-Please submit any questions by Jul 13th, 2016, at 6pm.
+The documents in this repository are posted to eBuy under RFQ#1109584. The documents in eBuy should always be considered the documents of record. 
+Please submit any questions by Jul 13th, 2016, at 6pm. Please note at this time that 18F and the Contracting Officer will only be responding to questions submitted by Agile BPA vendors.  Comments from other parties will still be considered but we cannot commit to responding to them.
+
 Offers are due by July 21st, 2016, at 6pm.
