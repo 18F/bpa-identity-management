@@ -27,8 +27,7 @@ the phase 1 and 2 evaluations as identified and described in the RFQ.
   (if needed)                                   
   ----------------------------------------------------------------------------------------------------------------
 
-### **\
-Rules**
+### **Rules**
 
 The oral presentation consists of an initial question and answer session
 on technical factors, and a follow-up question and answer session (if
