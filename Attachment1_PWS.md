@@ -1,9 +1,8 @@
 PERFORMANCE WORK STATEMENT (PWS)
 
-For\
-Identity Management Shared Authentication Platform Support
+For Identity Management Shared Authentication Platform Support
 
-June 28, 2016
+July 7, 2016
 
 Client Order ID (COI) ID09160051
 
