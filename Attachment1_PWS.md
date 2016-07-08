@@ -51,46 +51,31 @@ This Performance Work Statement (PWS) describes the technical and
 administrative components of the requirement as follows:
 
 -   Task requirements that the Contractor must successfully perform
-    > (Section 4).
+    (Section 4).
 
--   Operational requirements that must be met while the Contractor
-    > performs (Section 5).
+-   Operational requirements that must be met while the Contractor performs (Section 5).
 
 -   Generalized administrative requirements that are contract-oriented
-    > such as type of contract, period of performance, and any other
-    > terms and conditions (Section 6).
+    such as type of contract, period of performance, and any other terms and conditions (Section 6).
 
--   Invoicing Instructions for Contractor to receive payment
-    > (Section 7).
+-   Invoicing Instructions for Contractor to receive payment (Section 7).
 
 **4.0 REQUIREMENTS**
 --------------------
 
 The Contractor will provide the following services:
 
--   Contractor will work with agency partners and 18F Identity
-    > Management team to build integration (using Security Assertion
-    > Markup Language (SAML) or other appropriate technology) between
-    > agency web properties and 18F identity management product.
+-   Contractor will work with agency partners and 18F Identity Management team to build integration (using Security Assertion Markup Language (SAML) or other appropriate technology) between agency web properties and 18F identity management product.
 
--   Contractor will provide feedback to 18F Identity Management team
-    > regarding the requirements of agency partners.
+-   Contractor will provide feedback to 18F Identity Management team regarding the requirements of agency partners.
 
--   Contractor will work with 18F Identity Management team to improve
-    > the 18F identity management product to meet the requirements of
-    > the agency partners.
+-   Contractor will work with 18F Identity Management team to improve the 18F identity management product to meet the requirements of the agency partners.
 
 ### **Additional requirements:**
 
--   Contractor shall adhere to [US Web Design
-    > Standards](https://playbook.cio.gov/designstandards/) or other
-    > design standards as developed by the 18F team.
+-   Contractor shall adhere to [US Web Design Standards](https://playbook.cio.gov/designstandards/) or other design standards as developed by the 18F team.
 
--   As part of this being purchased off of the Agile Blanket Purchase
-    > Agreement (aBPA), work will be conducted in two-week sprints and
-    > reviewed at the end of each sprint for acceptability before
-    > moving on. The contractor and government may mutually agree to
-    > alter sprint length as needed.
+-   As part of this being purchased off of the Agile Blanket Purchase Agreement (aBPA), work will be conducted in two-week sprints and reviewed at the end of each sprint for acceptability before moving on. The contractor and government may mutually agree to alter sprint length as needed.
 
 ### **The Contractor will not be responsible to do the following:**
 
@@ -130,10 +115,7 @@ documented for each sprint's period of performance as follows:
 
 -   Links to the Github issues/commits/branches
 
--   Screenshot, links, or other documentation from the shared project
-    > management system reflecting completed features, including number
-    > and percentage of completed sprint tasks (e.g. percentage of
-    > tasks completed)
+-   Screenshot, links, or other documentation from the shared project management system reflecting completed features, including number and percentage of completed sprint tasks (e.g. percentage of tasks completed)
 
 ### 5.4 Daily Operations
 
@@ -145,8 +127,7 @@ Daily operations may include:
 
 -   Chat operations via Slack
 
--   Manage and update user stories + workflow tasks in shared project
-    > management system
+-   Manage and update user stories + workflow tasks in shared project management system
 
 ### 5.5 Personnel
 
@@ -161,31 +142,20 @@ Broadly, a team assigned to 18F is expected to have experience with:
 -   Identity Protocols, such as:
 
     -   SAML
-
     -   OAuth
-
     -   OpenID Connect
 
--   Highly scalable systems, meaning 100s or 1000s of Transactions per
-    > Second
+-   Highly scalable systems, meaning 100s or 1000s of Transactions per Second
 
 -   Building and testing public facing sites and tools
 
 -   Managing multi-terabyte operational datasets.
 
--   Understanding and analyzing multi-terabyte operational datasets
-    > (Big Data)
+-   Understanding and analyzing multi-terabyte operational datasets (Big Data)
 
--   As developers will likely be sitting side-by-side with our clients,
-    > they also need to be personable, comfortable working with
-    > unfamiliar codebases and be able to adapt quickly to our
-    > customers needs.
+-   As developers will likely be sitting side-by-side with our clients, they also need to be personable, comfortable working with unfamiliar codebases and be able to adapt quickly to our customers needs.
 
-In addition to the skills articulated on the [Labor Categories for the
-Blanket Purchase
-Agreement](https://pages.18f.gov/agile-labor-categories/), Contractor
-personnel shall have a strong technical experience base in a majority of
-the following:
+In addition to the skills articulated on the [Labor Categories for the Blanket Purchase Agreement](https://pages.18f.gov/agile-labor-categories/), Contractor personnel shall have a strong technical experience base in a majority of the following:
 
 Front End Engineers shall be experienced in the following areas:
 
@@ -207,8 +177,7 @@ Back End Engineers shall be experienced in the following areas:
 
 -   Contributing to and/or using open source software
 
--   Cloud deployment in Infrastructure as a Service (IaaS) or Platform
-    > as a Service (PaaS) environments
+-   Cloud deployment in Infrastructure as a Service (IaaS) or Platform as a Service (PaaS) environments
 
 Full Stack Engineers shall be experienced with a combination of the
 above Front and Back-end areas.
@@ -278,8 +247,7 @@ Manager include:
 
 -   Ability to understand and simplify customer requirements.
 
--   Ability to communicate end user feedback to technical and
-    > design leads.
+-   Ability to communicate end user feedback to technical and design leads.
 
 -   Strong communication skills.
 
@@ -417,8 +385,7 @@ performed under the proposed task order and bearing on whether the
 Offeror has a possible organizational or personnel conflict of interest
 with respect to:
 
-1.  Being able to render impartial, technically sound, and objective
-    > assistance or advice, or
+1.  Being able to render impartial, technically sound, and objective assistance or advice, or
 
 2.  Being given an unfair competitive advantage.
 
@@ -500,11 +467,11 @@ The following standard is applicable for compliance:
 The contractor should review the following websites for additional 508
 information:
 
--   <http://www.section508.gov/index.cfm?FuseAction=Content&ID=12>
+-   http://www.section508.gov/index.cfm?FuseAction=Content&ID=12
 
--   <http://www.access-board.gov/508.htm>
+-   http://www.access-board.gov/508.htm
 
--   <http://www.w3.org/WAI/Resources>
+-   http://www.w3.org/WAI/Resources
 
 ### 6.5 Post Award Orientation Conference
 
@@ -541,45 +508,27 @@ To counter the circumstances that infer personal services and to
 preserve the non-personal nature of the contract, the contractor shall
 adhere to the following guidelines in the performance of the task:
 
--   Contractor provides for direct supervision of all contract employees
-    > assigned to the task.
+-   Contractor provides for direct supervision of all contract employees assigned to the task.
 
--   Refrain from discussing the issues such as skill levels and hours,
-    > salaries, cost and funding data, or administrative and personnel
-    > matters affecting contractor employees with the client.
+-   Refrain from discussing the issues such as skill levels and hours, salaries, cost and funding data, or administrative and personnel matters affecting contractor employees with the client.
 
--   Ensure close communication/coordination with the Procurement Project
-    > Manager, reporting problems to the Procurement Project Manager as
-    > they occur (not waiting for a monthly meeting).
+-   Ensure close communication/coordination with the Procurement Project Manager, reporting problems to the Procurement Project Manager as they occur (not waiting for a monthly meeting).
 
--   Do not permit government officials to interview potential contractor
-    > employees, discuss individual performance, approve leave or work
-    > scheduling of contractor employees, terminate contractor
-    > employees, assist contractor employees in doing their jobs or
-    > obtain assistance from the contractor in doing Government job.
+-   Do not permit government officials to interview potential contractor employees, discuss individual performance, approve leave or work scheduling of contractor employees, terminate contractor employees, assist contractor employees in doing their jobs or obtain assistance from the contractor in doing Government job.
 
--   Do not assign contractor personnel to work under direct
-    > government supervision.
+-   Do not assign contractor personnel to work under direct government supervision.
 
 -   Maintain a professional distance from government employees.
 
--   Provide contractor employees with badges, if appropriate,
-    > identifying them as contractors.
+-   Provide contractor employees with badges, if appropriate, identifying them as contractors.
 
--   Ensure proper communications with the government (technical
-    > discussion and government surveillance is okay, but the Government
-    > cannot tell the contractor how to do the job).
+-   Ensure proper communications with the government (technical discussion and government surveillance is okay, but the Government cannot tell the contractor how to do the job).
 
--   Assign a task leader to the task order. The task leader or alternate
-    > should be the only one who accepts tasking from the assigned
-    > Government point of contact or alternative.
+-   Assign a task leader to the task order. The task leader or alternate should be the only one who accepts tasking from the assigned Government point of contact or alternative.
 
--   The government has the right to reject the finished product or
-    > result and this does not constitute personal services.
+-   The government has the right to reject the finished product or result and this does not constitute personal services.
 
--   When travel is required for the performance on a task, the
-    > Contractor personnel are only to travel as directed by their
-    > contract management.
+-   When travel is required for the performance on a task, the Contractor personnel are only to travel as directed by their contract management.
 
 ### 6.7 Privacy Act
 
@@ -618,17 +567,11 @@ performed under the task order be committed to the public domain.
 Further, 18F intends to commit the following items, to the public
 domain, at a minimum:
 
--   All data, documents, graphics and code created under this task order
-    > including but not limited to, plans, reports, schedules, schemas,
-    > metadata, architecture designs, and the like;
+-   All data, documents, graphics and code created under this task order including but not limited to, plans, reports, schedules, schemas, metadata, architecture designs, and the like;
 
--   Any and all new open source software created by the contractor and
-    > forks or branches of current open source software where the
-    > contractor has made a modification; and,
+-   Any and all new open source software created by the contractor and forks or branches of current open source software where the contractor has made a modification; and,
 
--   Any and all new tooling, scripting configuration management,
-    > infrastructure as code, or any other final changes or edits to
-    > successfully deploy or operate the software.
+-   Any and all new tooling, scripting configuration management, infrastructure as code, or any other final changes or edits to successfully deploy or operate the software.
 
 The Contractor shall use open source technologies wherever possible, in
 support of the 18F Source Code Policy. All licenses must be expressly
@@ -719,19 +662,15 @@ following information at a minimum.
 
 -   Invoice Amount
 
--   Skill Level Name and Associated Skill Level Number (for T&M or
-    > Labor Hour)
+-   Skill Level Name and Associated Skill Level Number (for T&M or Labor Hour)
 
--   Actual Hours Worked During the Billing Period (for T&M or
-    > Labor Hour)
+-   Actual Hours Worked During the Billing Period (for T&M or Labor Hour)
 
--   Clearly indicate both the current invoice’s monthly “burn rate” and
-    > the total average monthly “burn rate” (for T&M or Labor Hour)
+-   Clearly indicate both the current invoice’s monthly “burn rate” and the total average monthly “burn rate” (for T&M or Labor Hour)
 
 -   Travel Itemized by Individual and Trip (if applicable)
 
--   Supporting documentation for travel including travel approval and
-    > receipts (if applicable)
+-   Supporting documentation for travel including travel approval and receipts (if applicable)
 
 ### 7.2 Invoice Submission
 
