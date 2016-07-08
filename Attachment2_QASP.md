@@ -7,76 +7,65 @@ June 28, 2016
 
 **TABLE OF CONTENTS**
 
-> [*1 INTRODUCTION*](#introduction)
->
-> [*1.1 Purpose*](#purpose)
->
-> [*1.1.1 Background*](#background)
->
-> [*1.1.2 Content*](#content)
->
-> [*1.2 Performance Management
-> Approach*](#performance-management-approach)
->
-> [*1.2.1 Expected Outcomes*](#expected-outcomes)
->
-> [*1.2.2 Results Focus*](#results-focus)
->
-> [*1.3 Performance Management
-> Strategy*](#performance-management-strategy)
->
-> [*1.3.1 Quality Control*](#quality-control)
->
-> [*1.3.2 Government Role*](#government-role)
->
-> [*2 ROLES AND RESPONSIBILITIES*](#roles-and-responsibilities)
->
-> [*3 IDENTIFICATION OF REQUIRED PERFORMANCE STANDARDS/QUALITY
-> LEVELS*](#identification-of-required-performance-standardsquality-levels)
->
-> [*4 METHODOLOGIES TO MONITOR
-> PERFORMANCE*](#methodologies-to-monitor-performance)
->
-> [*4.1 Surveillance Techniques*](#surveillance-techniques)
->
-> [*4.2 Customer Feedback*](#customer-feedback)
->
-> [*4.3 Acceptable Quality Levels*](#acceptable-quality-levels)
->
-> [*5 QUALITY ASSURANCE
-> DOCUMENTATION*](#quality-assurance-documentation)
->
-> [*5.1 The Performance Management Feedback
-> Loop*](#the-performance-management-feedback-loop)
->
-> [*5.2 Monitoring Forms*](#monitoring-forms)
->
-> [*6 ANALYSIS OF QUALITY ASSURANCE
-> ASSESSMENT*](#analysis-of-quality-assurance-assessment)
->
-> [*6.1 Determining Performance*](#determining-performance)
->
-> [*6.2 Reporting*](#reporting)
->
-> [*6.3 Reviews and Resolution*](#reviews-and-resolution)
->
-> [*6.3.1 Performance Reviews*](#performance-reviews)
->
-> [*6.3.2 Resolving Issues*](#resolving-issues)
->
-> [*6.3.3 Revisions*](#revisions)
->
-> [*APPENDIX 1: PERFORMANCE REQUIREMENTS
-> SUMMARY*](#appendix-1-performance-requirements-summary)
->
-> [*APPENDIX 2: SAMPLE QUALITY ASSURANCE MONITORING
-> FORM*](#appendix-2-sample-quality-assurance-monitoring-form)
->
-> [*APPENDIX 3: QUALITY ASSURANCE MONITORING FORM – CUSTOMER COMPLAINT
-> INVESTIGATION
-> FORM*](#appendix-3-quality-assurance-monitoring-form-customer-complaint-investigation-form)
->
-> **QUALITY ASSURANCE SURVEILLANCE PLAN (QASP)**
+[*1 INTRODUCTION*](#introduction)
+
+[*1.1 Purpose*](#purpose)
+
+[*1.1.1 Background*](#background)
+
+[*1.1.2 Content*](#content)
+
+[*1.2 Performance Management Approach*](#performance-management-approach)
+
+[*1.2.1 Expected Outcomes*](#expected-outcomes)
+
+[*1.2.2 Results Focus*](#results-focus)
+
+[*1.3 Performance Management Strategy*](#performance-management-strategy)
+
+[*1.3.1 Quality Control*](#quality-control)
+
+[*1.3.2 Government Role*](#government-role)
+
+[*2 ROLES AND RESPONSIBILITIES*](#roles-and-responsibilities)
+
+[*3 IDENTIFICATION OF REQUIRED PERFORMANCE STANDARDS/QUALITY LEVELS*](#identification-of-required-performance-standardsquality-levels)
+
+[*4 METHODOLOGIES TO MONITOR PERFORMANCE*](#methodologies-to-monitor-performance)
+
+[*4.1 Surveillance Techniques*](#surveillance-techniques)
+
+[*4.2 Customer Feedback*](#customer-feedback)
+
+[*4.3 Acceptable Quality Levels*](#acceptable-quality-levels)
+
+[*5 QUALITY ASSURANCE DOCUMENTATION*](#quality-assurance-documentation)
+
+[*5.1 The Performance Management Feedback Loop*](#the-performance-management-feedback-loop)
+
+[*5.2 Monitoring Forms*](#monitoring-forms)
+
+[*6 ANALYSIS OF QUALITY ASSURANCE ASSESSMENT*](#analysis-of-quality-assurance-assessment)
+
+[*6.1 Determining Performance*](#determining-performance)
+
+[*6.2 Reporting*](#reporting)
+
+[*6.3 Reviews and Resolution*](#reviews-and-resolution)
+
+[*6.3.1 Performance Reviews*](#performance-reviews)
+
+[*6.3.2 Resolving Issues*](#resolving-issues)
+
+[*6.3.3 Revisions*](#revisions)
+
+[*APPENDIX 1: PERFORMANCE REQUIREMENTS SUMMARY*](#appendix-1-performance-requirements-summary)
+
+[*APPENDIX 2: SAMPLE QUALITY ASSURANCE MONITORING FORM*](#appendix-2-sample-quality-assurance-monitoring-form)
+
+[*APPENDIX 3: QUALITY ASSURANCE MONITORING FORM – CUSTOMER COMPLAINT INVESTIGATION FORM*](#appendix-3-quality-assurance-monitoring-form-customer-complaint-investigation-form)
+
+**QUALITY ASSURANCE SURVEILLANCE PLAN (QASP)**
 
 **1** INTRODUCTION
 ==================
@@ -361,26 +350,22 @@ APPENDIX 2: SAMPLE QUALITY ASSURANCE MONITORING FORM
 
 **KEY MEASURES:**
 
-*Reviewer 1:* (PRINT
-NAME)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*Reviewer 1:* (PRINT NAME)
 
-*Reviewer 2:* (PRINT
-NAME)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*Reviewer 2:* (PRINT NAME)
 
 **ANALYSIS OF RESULTS:**
 
-> **Service Provider’s Performance (Check):** \[ \] Meets Standards
->
-> \[ \] Does Not Meet Standards
->
-> **Narrative of Performance During Survey Period:**
+**Service Provider’s Performance (Check):** \[ \] Meets Standards
+\[ \] Does Not Meet Standards
 
-**PREPARED BY:** (PRINT
-NAME)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Narrative of Performance During Survey Period:**
+
+**PREPARED BY:** (PRINT NAME)
 
 **SIGNATURE:**
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-**DATE:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**DATE:** 
 
 APPENDIX 3: QUALITY ASSURANCE MONITORING FORM – CUSTOMER COMPLAINT INVESTIGATION FORM
 =====================================================================================
@@ -407,9 +392,8 @@ APPENDIX 3: QUALITY ASSURANCE MONITORING FORM – CUSTOMER COMPLAINT INVESTIGATI
 
 **CORRECTIVE ACTION TAKEN BY SERVICE PROVIDER:**
 
-**RECEIVED AND VALIDATED BY:**(PRINT
-NAME)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**RECEIVED AND VALIDATED BY:**(PRINT NAME)
 
 **SIGNATURE:**
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-**DATE:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**DATE:** 
