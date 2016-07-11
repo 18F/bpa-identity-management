@@ -80,7 +80,7 @@ levels are achieved by the contractor.
 1.1 Purpose
 -----------
 
-### **1.1.1 Background** 
+### **1.1.1 Background**
 
 The purpose of the QASP is to describe the systematic methods used to
 monitor performance and to identify the required documentation and the
@@ -101,7 +101,7 @@ describes the analysis of quality assurance monitoring results.
 1.2 Performance Management Approach
 -----------------------------------
 
-### **1.2.1 Expected Outcomes** 
+### **1.2.1 Expected Outcomes**
 
 The PWS structures the acquisition around “what” service or quality
 level is required, as opposed to “how” the contractor should perform the
@@ -116,7 +116,7 @@ is the cornerstone of performance management; this analysis yields
 information that indicates whether expected outcomes for the project are
 being achieved by the contractor.
 
-### **1.2.2 Results Focus** 
+### **1.2.2 Results Focus**
 
 Performance management represents a significant shift from the more
 traditional quality assurance (QA) concepts in several ways. Performance
@@ -136,7 +136,7 @@ being met.
 1.3 Performance Management Strategy
 -----------------------------------
 
-### **1.3.1 Quality Control** 
+### **1.3.1 Quality Control**
 
 The contractor is responsible for the quality of all work performed. The
 contractor measures that quality through the contractor’s own quality
@@ -283,7 +283,7 @@ performance standards, including cost/technical/scheduling objectives.
 **6.3** **Reviews and Resolution**
 ----------------------------------
 
-### **6.3.1 Performance Reviews** 
+### **6.3.1 Performance Reviews**
 
 The PM or COR may require the contractor’s project manager, or a
 designated alternate, to meet with the CO, COR or PM and other
@@ -303,13 +303,13 @@ trends, including a corrective action plan analysis
 
 Ø Recommendations for improved efficiency and/or effectiveness
 
-### **6.3.2 Resolving Issues** 
+### **6.3.2 Resolving Issues**
 
 The PM and COR must coordinate and communicate with the contractor to
 resolve issues and concerns regarding marginal or unacceptable
 performance.
 
-### **6.3.3 Revisions** 
+### **6.3.3 Revisions**
 
 The PM, COR, and contractor should jointly formulate tactical and
 long-term courses of action. Decisions regarding changes to metrics,
@@ -319,17 +319,14 @@ service levels, procedures, and metrics will require approval of the CO.
 APPENDIX 1: PERFORMANCE REQUIREMENTS SUMMARY
 ============================================
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Required Services**                                                                 **Performance**                                    **Acceptable Quality**   **Methods**                                                                         **Incentive (Positive and/or Negative)**
-                                                                                                                                                                                                                                                        
-  **(Tasks)**                                                                           **Standards**                                      **Levels**               **of**                                                                              **(Impact on Contractor Payments)**
-                                                                                                                                                                                                                                                        
-                                                                                                                                                                    **Surveillance**                                                                    
-  ------------------------------------------------------------------------------------- -------------------------------------------------- ------------------------ ----------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------
-  Submit a PM report of scheduled, completed, and outstanding tasks monthly (PWS 5.3)   100% of reports accurately depict current status   99%                      File reviews, periodic inspections, and random, observations, customer complaints   Negative remarks on contractor CPARS if report is submitted after the 15th of the month more than once during a performance period
+  ---
 
-  Submit Customer Satisfaction reports every month                                      Contractor maintains a level 3 or higher           Level 3 or higher        Monthly Survey Questionnaire from at least 2 18F team members                       Negative remarks on contractor CPARS if report is submitted after the 15th of the month more than once during a performance period
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **Required Services<br>(Tasks)** | **Performance<br>Standards** | **Acceptable Quality<br>Levels** | **Methods<br>of Surveillance** | **Incentive (Positive and/or Negative)<br>(Impact on Contractor Payments)**
+  ---|---|---|---|---|
+  Submit a PM report of scheduled, completed, and outstanding tasks monthly (PWS 5.3) |   100% of reports accurately depict current status | 99% | File reviews, periodic inspections, and random, observations, customer complaints | Negative remarks on contractor CPARS if report is submitted after the 15th of the month more than once during a performance period
+  Submit Customer Satisfaction reports every month | Contractor maintains a level 3 or higher | Level 3 or higher | Monthly Survey Questionnaire from at least 2 18F team members | Negative remarks on contractor CPARS if report is submitted after the 15th of the month more than once during a performance period
+
+  ---
 
 APPENDIX 2: SAMPLE QUALITY ASSURANCE MONITORING FORM
 ====================================================
@@ -365,7 +362,7 @@ APPENDIX 2: SAMPLE QUALITY ASSURANCE MONITORING FORM
 
 **SIGNATURE:**
 
-**DATE:** 
+**DATE:**
 
 APPENDIX 3: QUALITY ASSURANCE MONITORING FORM – CUSTOMER COMPLAINT INVESTIGATION FORM
 =====================================================================================
@@ -396,4 +393,4 @@ APPENDIX 3: QUALITY ASSURANCE MONITORING FORM – CUSTOMER COMPLAINT INVESTIGATI
 
 **SIGNATURE:**
 
-**DATE:** 
+**DATE:**
