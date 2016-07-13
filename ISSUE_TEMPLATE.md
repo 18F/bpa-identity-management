@@ -1,4 +1,4 @@
-# Question/Comment on FedRamp Dashboard RFQ
+# Question/Comment on Identity Management RFQ
 
 ## Name and affiliation
 {please provide information about your job/role in the Agile BPA process as well as your organization} 
