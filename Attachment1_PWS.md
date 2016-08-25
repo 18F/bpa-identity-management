@@ -61,11 +61,11 @@ administrative components of the requirement as follows:
 
 The Contractor will provide the following services:
 
--   Contractor will work with agency partners and 18F Identity Management team to build integration (using Security Assertion Markup Language (SAML) or other appropriate technology) between agency web properties and 18F identity management product.
+-   Contractor will work with agency partners and 18F Identity Management Team to build integration (using Security Assertion Markup Language (SAML) or other appropriate technology) between agency web properties and 18F identity management product.
 
--   Contractor will provide feedback to 18F Identity Management team regarding the requirements of agency partners.
+-   Contractor will provide feedback to 18F Identity Management Team regarding the requirements of agency partners.
 
--   Contractor will work with 18F Identity Management team to improve the 18F identity management product to meet the requirements of the agency partners.
+-   Contractor will work with 18F Identity Management Team to improve the 18F identity management product to meet the requirements of the agency partners.
 
 ### **Additional requirements:**
 
@@ -274,7 +274,7 @@ perform this task order.
   Development Prototype                 End of second sprint, and every sprint thereafter                   In-progress development prototype, accessible on the web via staging server / development server
   Transition plan                       3 business days after the conclusion of the second-to-last sprint   See Section 5.7.1 of the PWS
 
-#### 
+####
 
 #### **5.6.1 Delivery Instructions**
 
@@ -316,7 +316,7 @@ create new user stories based on each sprint.
 
 The Government will use the attached draft Quality Assurance
 Surveillance Plan (QASP) to monitor the Contractor’s performance. The
-QASP will provide oversight help to ensure that service levels reach and
+QASP will provide oversight to help ensure that service levels reach and
 maintain the required levels for performance of this task. Further, the
 QASP provides the COR with a proactive way to avoid unacceptable or
 deficient performance, and provides verifiable input for the required
@@ -418,7 +418,7 @@ This is a labor-hour order under master Agile BPA terms and conditions.
 
 The Period of Performance (POP) includes a base period of 3 months, with
 3 additional option periods, each 3 months in duration. Further, a
-contingency of up to 6 months may be exercised . The POP is expected to
+contingency of up to 6 months may be exercised. The POP is expected to
 begin within 10 calendar days after award.
 
 ### 6.3 Place and Hours of Performance
@@ -472,7 +472,7 @@ information:
 ### 6.5 Post Award Orientation Conference
 
 The Government's team, Contracting Officer, and COR shall hold a
-Kick-Off Meeting/Post-Award Conference. Ideally, this will physically
+Kick-Off Meeting/Post-Award Conference. Ideally, this will be physically
 located in Washington, DC, but may be done virtually with Contractor’s
 team and other relevant Government staff to review and clarify the
 project’s objectives, expectations from the Government, and address any
@@ -710,8 +710,6 @@ claims is due within 15 calendar days of final payment.
 
 ### Attachments:
 
-1.  ### Draft QASP
+1.  **Draft QASP**
 
 2.  **Government Roles and Responsibilities**
-
-
