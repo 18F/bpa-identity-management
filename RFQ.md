@@ -297,6 +297,9 @@ oral presentations and code test. The code test will be focused on the
 Offerors experience and skill with DevOps, infrastructure, and
 continuous deployment methods.
 
+[_See Attachment 4 - Oral Presentation Instructions - for additional 
+information_] (https://github.com/18F/bpa-identity-management/blob/master/Attachment4_OralPresentationInstructions.md)
+
 The Offeror’s responses to questions asked during the Oral
 Presentations will be evaluated based on an assessment by the
 Government technical evaluation team of their strengths, weaknesses,
